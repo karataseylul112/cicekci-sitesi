@@ -29,6 +29,7 @@ HTML5 ve CSS3 kullanilarak gelistirilmis, tamamen duyarli bir e-ticaret cicekci 
 5. İstersen VS Code üzerinde Live Server eklentisini kullanabilirsin.
 
 # Proje Yapisi
+
 cicekci-sitesi/
 |
 |-- index.html
