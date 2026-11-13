@@ -31,7 +31,6 @@ HTML5 ve CSS3 kullanilarak gelistirilmis, tamamen duyarli bir e-ticaret cicekci 
 # Proje Yapisi
 
 cicekci-sitesi/
-|
 |-- index.html
 |-- css/
 |   |-- style.css
